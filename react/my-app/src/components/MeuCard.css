@@ -1,0 +1,17 @@
+.card {
+    margin: 2px;
+    border: 2px solid #000;
+    border-radius: 15px;
+}
+
+.card-titulo {
+    background-color: #000;
+    color:#fff;
+    text-align: center;
+}
+
+.card-conteudo {
+    background-color: #fff;
+    color: #000;
+    margin: 10px
+}
